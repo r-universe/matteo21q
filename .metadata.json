@@ -1,0 +1,10 @@
+[
+  {
+    "package": "dani",
+    "oncran": true
+  },
+  {
+    "package": "jomo",
+    "oncran": true
+  }
+]
